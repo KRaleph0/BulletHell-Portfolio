@@ -1,0 +1,46 @@
+# Unity
+client/[Ll]ibrary/
+client/[Tt]emp/
+client/[Oo]bj/
+client/[Bb]uild/
+client/[Bb]uilds/
+client/[Ll]ogs/
+client/[Uu]ser[Ss]ettings/
+client/MemoryCaptures/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.mdb
+.vs/
+.vscode/
+.idea/
+*.apk
+*.unitypackage
+
+# 서드파티 에셋 (재배포 불가, CREDITS.md 참고)
+client/Assets/graphic/
+client/Assets/graphic.meta
+client/Assets/animation/Rig_L/
+client/Assets/animation/Rig_L.meta
+client/Assets/animation/Rig_Med/
+client/Assets/animation/Rig_Med.meta
+client/Assets/font/
+client/Assets/font.meta
+client/Assets/Effects/
+client/Assets/Effects.meta
+client/Assets/TextMesh Pro/
+client/Assets/TextMesh Pro.meta
+
+# Node.js
+node_modules/
+.env
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini

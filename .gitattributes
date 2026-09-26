@@ -1,0 +1,27 @@
+# Unity line endings
+* text=auto
+
+# Force binary for Unity assets
+*.fbx binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.tga binary
+*.tif binary
+*.tiff binary
+*.psd binary
+*.wav binary
+*.mp3 binary
+*.ogg binary
+*.aiff binary
+*.ttf binary
+*.otf binary
+*.pdf binary
+*.unitypackage binary
+*.asset -text merge=unityyamlmerge diff=unity
+*.prefab -text merge=unityyamlmerge diff=unity
+*.unity -text merge=unityyamlmerge diff=unity
+*.mat -text merge=unityyamlmerge diff=unity
+*.anim -text merge=unityyamlmerge diff=unity
+*.controller -text merge=unityyamlmerge diff=unity
