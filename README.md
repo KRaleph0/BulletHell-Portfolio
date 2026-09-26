@@ -1,5 +1,7 @@
 # BulletHell PvP
 
+![gameplay](docs/gameplay.gif)
+
 Unity로 만든 **1:1 실시간 온라인 탄막 PvP 게임**입니다.
 로그인 → 방 목록 → 대기방(채팅·준비) → 대전으로 이어지는 흐름을 갖추고, 위치·탄막은 UDP 릴레이로, 게임 이벤트는 WebSocket으로 동기화합니다.
 
