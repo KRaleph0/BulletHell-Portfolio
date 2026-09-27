@@ -41,6 +41,10 @@ Unity로 만든 **1:1 실시간 온라인 탄막 PvP 게임**입니다.
 - **API 서버:** Python FastAPI (저장소 미포함)
 - **인프라:** AWS Lightsail, nginx, Tailscale, Cloudflare Tunnel, Docker Compose
 
+## 개발 도구
+
+- AI 코딩 보조 도구(Claude Code)를 구현 보조와 디버깅에 활용했으며, 설계 결정과 코드 검토는 직접 수행했습니다.
+
 ## 프로젝트 구조
 
 ```
